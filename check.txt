@@ -2,5 +2,5 @@
 "url":"google.com",
 "version":"1.2.6",
 "message":"xin chào",
-"redirect":1,
+"redirect":1
 }
