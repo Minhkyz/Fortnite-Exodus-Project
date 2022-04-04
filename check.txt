@@ -1,6 +1,6 @@
 {
 "url":"facebook.com",
-"version":"1.2.6",
+"version":"1.2.5",
 "message":"Tạm khóa",
 "redirect":1
 }
