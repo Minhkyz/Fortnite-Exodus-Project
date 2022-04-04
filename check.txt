@@ -2,5 +2,5 @@
 "url":"facebook.com",
 "version":"1.2.5",
 "message":"Tạm khóa",
-"redirect":1
+"redirect":0
 }
