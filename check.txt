@@ -2,5 +2,5 @@
 "url":"https://vnexpress.net/",
 "version":"1.2.6",
 "message":"Ứng dụng đọc báo",
-"redirect":0
+"redirect":1
 }
